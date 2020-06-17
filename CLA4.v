@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module CLA4 (A, B, Ci, S, Co, PG, GG);
     input[3:0] A;
     input[3:0] B;
